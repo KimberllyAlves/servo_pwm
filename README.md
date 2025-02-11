@@ -62,8 +62,8 @@ Este projeto tem como objetivo controlar um **servomotor** utilizando o módulo 
    - O **LED RGB** deve exibir um comportamento específico, conforme observado no experimento com **BitDogLab**.  
 
 ---
-
 ## 📹 Vídeo de Demonstração  
-🔗 Assista ao vídeo de demonstração aqui
+
+🔗 [Assista ao vídeo de demonstração aqui](https://drive.google.com/file/d/1bQyraKL12YGN_BuIVXK_gOlYe76hPHUa/view?usp=sharing)  
 
 
