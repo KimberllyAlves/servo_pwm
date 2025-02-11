@@ -1,6 +1,3 @@
-Aqui está o README revisado, corrigido e melhor estruturado:  
-
----
 
 # 🎯 Controle de Servomotor por PWM com Raspberry Pi Pico W  
 
