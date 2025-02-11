@@ -2,7 +2,7 @@
 #include "hardware/pwm.h"
 #include <stdio.h>
 
-#define SERVO_PIN 12  // Define o pino 22 como servoPin
+#define SERVO_PIN 22  // Define o pino 22 como servoPin
 
 void set_servo_angle(uint slice_num, uint angle) {
     uint16_t duty_cycle;
